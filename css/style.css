@@ -1,0 +1,40 @@
+@font-face{font-family:"Lilita One";src:url("/fonts/LilitaOne-Regular.ttf") format("truetype");font-display:swap}
+*{box-sizing:border-box}
+html{-webkit-text-size-adjust:100%}
+body{margin:0;font:1.05rem/1.6 system-ui,-apple-system,"Segoe UI",Roboto,sans-serif;color:#fff;background:#0b3d6e linear-gradient(180deg,#29a3c9 0,#0b3d6e 900px) no-repeat;min-height:100vh;display:flex;flex-direction:column}
+a{color:#ffd34a}
+a:focus-visible,.btn:focus-visible{outline:3px solid #ffd34a;outline-offset:3px}
+.wrap{width:100%;max-width:960px;margin:0 auto;padding:0 16px}
+header{padding:14px 0}
+header .wrap{display:flex;align-items:center;justify-content:space-between;gap:12px}
+.brand{font-family:"Lilita One",system-ui,sans-serif;font-size:2rem;letter-spacing:.08em;color:#ffd34a;text-decoration:none;text-shadow:0 3px 0 #1b1230,2px 0 0 #1b1230,-2px 0 0 #1b1230,0 -2px 0 #1b1230;display:inline-flex;align-items:center}
+.brand img{height:40px;width:auto;display:block}
+.lang{font-weight:700;text-decoration:none;color:#1b1230;background:#ffd34a;border:3px solid #1b1230;border-radius:12px;padding:4px 14px}
+h1,h2,h3{font-family:"Lilita One",system-ui,sans-serif;font-weight:400;line-height:1.15}
+.hero{text-align:center;padding:10px 0 6px}
+.hero h1{font-size:clamp(2rem,7vw,3.2rem);margin:.2em 0}
+.hero p{font-size:1.15rem;max-width:34em;margin:0 auto}
+.card{background:#12507f;border:4px solid #1b1230;border-radius:22px;padding:18px;margin:22px 0;box-shadow:0 6px 0 #1b1230}
+.card h2{font-size:clamp(1.7rem,6vw,2.4rem);margin:.1em 0 .3em;color:#ffd34a}
+.card img.cover{width:100%;height:auto;border:4px solid #1b1230;border-radius:16px;display:block;background:#1b1230}
+.btn{display:inline-block;font-family:"Lilita One",system-ui,sans-serif;font-size:1.25rem;border:4px solid #1b1230;border-radius:16px;padding:10px 22px;text-decoration:none;color:#1b1230;background:#ffd34a}
+.btn[aria-disabled=true]{background:#8a97a6;color:#33283f;cursor:not-allowed}
+.shots{display:grid;grid-template-columns:repeat(2,1fr);gap:12px;margin:20px 0;padding:0;list-style:none}
+.shots img{width:100%;height:auto;display:block;border:4px solid #1b1230;border-radius:16px}
+@media(min-width:760px){.shots{grid-template-columns:repeat(4,1fr)}}
+main{flex:1}
+footer{background:#1b1230;margin-top:30px;padding:18px 0;font-size:.95rem}
+footer .wrap{display:flex;flex-wrap:wrap;gap:6px 16px;justify-content:center}
+.legal{background:#fff;color:#1b1230;border:4px solid #1b1230;border-radius:22px;padding:20px 22px;margin:20px 0;box-shadow:0 6px 0 #1b1230}
+.legal a{color:#5b2bb8}
+.legal h1{font-size:2rem;margin-top:0}
+.legal h2{font-size:1.3rem;margin-top:1.5rem}
+.legal hr{border:0;border-top:2px solid #d9cff0;margin:2rem 0}
+.legal dt{font-weight:700;margin-top:.8rem}
+.legal dd{margin:0}
+.legal .sub{color:#4a3d66}
+/* Grinity-Logo (dunkel): auf heller Fläche, damit es auf dem blauen Hintergrund lesbar bleibt */
+.brand{background:#f6fbff;border:3px solid #1b1230;border-radius:50%;width:56px;height:56px;justify-content:center;box-shadow:0 3px 0 #1b1230}
+.brand img{height:38px;width:auto}
+.logo-card{display:inline-block;margin:6px auto 14px;padding:14px 22px;background:#f6fbff;border:4px solid #1b1230;border-radius:24px;box-shadow:0 5px 0 #1b1230;line-height:0}
+.logo-card img{width:220px;height:auto;display:block}
