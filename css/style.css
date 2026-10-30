@@ -38,3 +38,24 @@ footer .wrap{display:flex;flex-wrap:wrap;gap:6px 16px;justify-content:center}
 .brand img{height:38px;width:auto}
 .logo-card{display:inline-block;margin:6px auto 14px;padding:14px 22px;background:#f6fbff;border:4px solid #1b1230;border-radius:24px;box-shadow:0 5px 0 #1b1230;line-height:0}
 .logo-card img{width:220px;height:auto;display:block}
+/* Welten, Minispiele, Store-Knöpfe, Support (2026-10-29) */
+.card h3{font-size:1.35rem;margin:.4em 0 .15em;color:#fff}
+.lead{font-size:1.15rem}
+.btns{display:flex;flex-wrap:wrap;gap:12px;margin:18px 0 4px}
+.btn small{display:block;font-family:system-ui,sans-serif;font-size:.75rem;font-weight:700;line-height:1.1;opacity:.8}
+.tiles{display:grid;grid-template-columns:repeat(2,1fr);gap:14px;margin:16px 0;padding:0;list-style:none}
+.tiles li{background:#0d3f66;border:4px solid #1b1230;border-radius:18px;overflow:hidden}
+.tiles img{width:100%;height:auto;display:block;border-bottom:4px solid #1b1230;background:#1b1230}
+.tiles .txt{padding:8px 12px 12px}
+.tiles h3{margin:.1em 0 .2em}
+.tiles p{margin:0;font-size:.95rem;line-height:1.4}
+.tiles li.wide{grid-column:1/-1}
+@media(min-width:760px){.tiles{grid-template-columns:repeat(3,1fr)}.tiles.four{grid-template-columns:repeat(4,1fr)}}
+.btn.store,.btn.store[aria-disabled=true]{background:#000;color:#fff;border-color:#1b1230;cursor:default;min-width:170px;text-align:left;padding:8px 20px 10px}
+.more{display:flex;flex-wrap:wrap;gap:18px;align-items:flex-start}
+.more .feats{flex:1 1 20em;columns:1;margin:0}
+.more img{width:200px;height:auto;border:4px solid #1b1230;border-radius:16px;display:block;margin:0 auto}
+.feats{columns:2 18em;column-gap:28px;padding-left:1.2em;margin:10px 0}
+.feats li{margin:0 0 .35em;break-inside:avoid}
+.legal details{border-top:2px solid #d9cff0;padding:.6rem 0}
+.legal summary{font-weight:700;cursor:pointer}
