@@ -1,0 +1,32 @@
+# Grinity – Grumpy Scampi
+
+> Grinity (Grinity e.U.) is an independent game studio from Austria that develops mobile games for iOS and Android. Its first game, Grumpy Scampi, is a free platformer / endless-climber jumping game for iPhone, iPad and Android with six underwater worlds, 60 levels, an endless mode and five minigames. No ads, playable offline, available in English and German. Release date: 24 November 2026.
+
+## Grumpy Scampi – key facts
+
+- Genre: platformer, endless climber, arcade, casual
+- Platforms: iPhone and iPad (App Store), Android phones and tablets (Google Play)
+- Price: free to play, optional in-app purchases (pearls, starter pack, season pass), no advertising
+- Content: 6 worlds (Seabed, Deep Sea, Frozen Sea, Shipwreck, Volcano, Christmas Reef), 60 levels, endless mode
+- Minigames ("Playground"): Long Throw, Clam Grab, Octo Bowling, Whack-a-Crab, Jelly Trampoline
+- Gameplay: an octopus launches the grumpy crustacean Scampi; the player steers with two arrow buttons (or tilt), bounces off friendly sea creatures, stomps enemies and collects coins and pearls. Each world adds its own mechanic (darkness, slippery ice, cannonballs, bubble vents, blinking platforms).
+- Features: wardrobe with skins and accessories, play as Scampi or Scampina, achievements and titles, daily and weekly tasks, season pass (Season 1 with Christmas theme starts on 1 December 2026), optional online leaderboard with friends (nickname only, no account)
+- Offline: fully playable without internet; no account required, progress is stored on the device
+- Languages: English, German
+- Developer and publisher: Grinity e.U., Austria – contact@grinity.eu
+
+## Pages
+
+- [Grumpy Scampi (English)](https://grinity.eu/en/): game overview, worlds, minigames, FAQ
+- [Grumpy Scampi (Deutsch)](https://grinity.eu/): Spielübersicht, Welten, Minispiele, FAQ
+- [Support (English)](https://grinity.eu/en/support/): help, purchases, refunds, settings
+- [Press kit (English)](https://grinity.eu/en/press/): fact sheet, descriptions, logos, key art, screenshots (ZIP download)
+- [Creator Program (English)](https://grinity.eu/en/creator/): creator codes, terms for streamers and content creators
+- [Privacy Policy (English)](https://grinity.eu/en/privacy/)
+- [Delete your data (English)](https://grinity.eu/en/delete/)
+- [Imprint (English)](https://grinity.eu/en/imprint/)
+
+## Social
+
+- Instagram (game): https://www.instagram.com/grumpyscampi_thegame/
+- Instagram (studio): https://www.instagram.com/grinity_/
