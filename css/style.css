@@ -59,3 +59,5 @@ footer .wrap{display:flex;flex-wrap:wrap;gap:6px 16px;justify-content:center}
 .feats li{margin:0 0 .35em;break-inside:avoid}
 .legal details{border-top:2px solid #d9cff0;padding:.6rem 0}
 .legal summary{font-weight:700;cursor:pointer}
+.social{list-style:none;padding:0;margin:10px 0;display:flex;flex-wrap:wrap;gap:10px 22px}
+.social a{font-weight:700}
