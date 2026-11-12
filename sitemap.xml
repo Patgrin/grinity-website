@@ -98,4 +98,18 @@
     <xhtml:link rel="alternate" hreflang="en" href="https://grinity.eu/en/press/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://grinity.eu/en/press/"/>
   </url>
+  <url>
+    <loc>https://grinity.eu/feedback/</loc>
+    <lastmod>2026-11-12</lastmod>
+    <xhtml:link rel="alternate" hreflang="de" href="https://grinity.eu/feedback/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://grinity.eu/en/feedback/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://grinity.eu/en/feedback/"/>
+  </url>
+  <url>
+    <loc>https://grinity.eu/en/feedback/</loc>
+    <lastmod>2026-11-12</lastmod>
+    <xhtml:link rel="alternate" hreflang="de" href="https://grinity.eu/feedback/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://grinity.eu/en/feedback/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://grinity.eu/en/feedback/"/>
+  </url>
 </urlset>
