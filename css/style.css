@@ -61,3 +61,23 @@ footer .wrap{display:flex;flex-wrap:wrap;gap:6px 16px;justify-content:center}
 .legal summary{font-weight:700;cursor:pointer}
 .social{list-style:none;padding:0;margin:10px 0;display:flex;flex-wrap:wrap;gap:10px 22px}
 .social a{font-weight:700}
+/* Instagram als Symbole (2026-11-12) */
+.social{gap:14px}
+.ig-card{display:flex;align-items:center;gap:14px;text-decoration:none;color:#fff;background:#0d3f66;border:4px solid #1b1230;border-radius:18px;padding:10px 18px 10px 10px;box-shadow:0 4px 0 #1b1230;transition:transform .12s,box-shadow .12s}
+.ig-card:hover{transform:translateY(-2px);box-shadow:0 6px 0 #1b1230}
+.ig-card:active{transform:translateY(2px);box-shadow:0 2px 0 #1b1230}
+.ig-card .ava{position:relative;width:64px;height:64px;flex:none;border-radius:50%;padding:3px;background:linear-gradient(45deg,#f9ce34,#ee2a7b 55%,#6228d7)}
+.ig-card .ava img{width:100%;height:100%;border-radius:50%;object-fit:cover;display:block;border:3px solid #1b1230;background:#1b1230}
+.ig-card .ava.light img{object-fit:contain;background:#f6fbff;padding:9px}
+.ig-card .badge{position:absolute;right:-6px;bottom:-6px;width:28px;height:28px;border-radius:9px;border:3px solid #1b1230;background:radial-gradient(circle at 30% 107%,#fdf497 0,#fd5949 45%,#d6249f 60%,#285aeb 90%);color:#fff;display:flex;align-items:center;justify-content:center}
+.ig-card .badge .ig{width:17px;height:17px}
+.ig-card .who{display:flex;flex-direction:column;line-height:1.25}
+.ig-card .who strong{font-size:1.05rem;color:#ffd34a}
+.ig-card .who small{font-size:.85rem;opacity:.85}
+.ig-foot{display:inline-flex;align-items:center;color:#fff}
+.ig-foot .ig{width:22px;height:22px}
+.ig-foot:hover{color:#ffd34a}
+.social li{min-width:0;max-width:100%}
+.ig-card .who{min-width:0}
+.ig-card .who strong{overflow-wrap:anywhere}
+@media(max-width:520px){.social li{flex:1 1 100%}.ig-card{padding-right:12px}.ig-card .who strong{font-size:.95rem}}
