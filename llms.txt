@@ -6,6 +6,8 @@
 
 - Genre: platformer, endless climber, arcade, casual
 - Platforms: iPhone and iPad (App Store), Android phones and tablets (Google Play)
+- App Store: https://apps.apple.com/app/id6826781517
+- Google Play: https://play.google.com/store/apps/details?id=com.grinity.grumpyscampi
 - Price: free to play, optional in-app purchases (pearls, starter pack, season pass), no advertising
 - Content: 6 worlds (Seabed, Deep Sea, Frozen Sea, Shipwreck, Volcano, Christmas Reef), 60 levels, endless mode
 - Minigames ("Playground"): Long Throw, Clam Grab, Octo Bowling, Whack-a-Crab, Jelly Trampoline
