@@ -4,6 +4,8 @@ GRUMPY SCAMPI – PRESS FACT SHEET / PRESSEINFO
 Developer / Entwickler:   Grinity e.U., Austria / Österreich
 Release / Erscheinung:    24 November 2026 / 24. November 2026
 Platforms / Plattformen:  iPhone, iPad (App Store); Android phones and tablets (Google Play)
+App Store:                https://apps.apple.com/app/id6826781517
+Google Play:              https://play.google.com/store/apps/details?id=com.grinity.grumpyscampi
 Price / Preis:            Free to play, optional in-app purchases, no ads /
                           kostenlos, optionale In-App-Käufe, keine Werbung
 Genre:                    Platformer, endless climber, arcade / Jump and Run, Endless Climber, Arcade
