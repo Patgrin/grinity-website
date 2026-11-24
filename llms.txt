@@ -1,6 +1,6 @@
 # Grinity – Grumpy Scampi
 
-> Grinity (Grinity e.U.) is an independent game studio from Austria that develops mobile games for iOS and Android. Its first game, Grumpy Scampi, is a free platformer / endless-climber jumping game for iPhone, iPad and Android with six underwater worlds, 60 levels, an endless mode and five minigames. No ads, playable offline, available in English and German. Release date: 24 November 2026.
+> Grinity (Grinity e.U.) is an independent game studio from Austria that develops mobile games for iOS and Android. Its first game, Grumpy Scampi, is a free platformer / endless-climber jumping game for iPhone, iPad and Android with currently five underwater worlds, 50 levels, an endless mode and five minigames (Season 1 adds a sixth world and a sixth minigame on 1 December 2026). No ads, playable offline, available in English and German. Release date: 24 November 2026.
 
 ## Grumpy Scampi – key facts
 
@@ -9,8 +9,8 @@
 - App Store: https://apps.apple.com/app/id6826781517
 - Google Play: https://play.google.com/store/apps/details?id=com.grinity.grumpyscampi
 - Price: free to play, optional in-app purchases (pearls, starter pack, season pass), no advertising
-- Content: 6 worlds (Seabed, Deep Sea, Frozen Sea, Shipwreck, Volcano, Christmas Reef), 60 levels, endless mode
-- Minigames ("Playground"): Long Throw, Clam Grab, Octo Bowling, Whack-a-Crab, Jelly Trampoline
+- Content: 5 worlds (Seabed, Deep Sea, Frozen Sea, Shipwreck, Volcano) with 50 levels and endless mode; the 6th world, Christmas Reef (10 more levels), opens with Season 1 on 1 December 2026
+- Minigames ("Playground"): Long Throw, Clam Grab, Octo Bowling, Whack-a-Crab, Jelly Trampoline; Snowball Darts joins on 1 December 2026
 - Gameplay: an octopus launches the grumpy crustacean Scampi; the player steers with two arrow buttons (or tilt), bounces off friendly sea creatures, stomps enemies and collects coins and pearls. Each world adds its own mechanic (darkness, slippery ice, cannonballs, bubble vents, blinking platforms).
 - Features: wardrobe with skins and accessories, play as Scampi or Scampina, achievements and titles, daily and weekly tasks, season pass (Season 1 with Christmas theme starts on 1 December 2026), optional online leaderboard with friends (nickname only, no account)
 - Offline: fully playable without internet; no account required, progress is stored on the device
