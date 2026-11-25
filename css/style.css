@@ -110,3 +110,18 @@ footer a[aria-current=page]{color:#fff}
 }
 
 a.btn.store[href]{cursor:pointer}a.btn.store[href]:hover{background:#1b1230}
+
+/* Startseite: Spiel + Store-Knöpfe ganz oben (2026-11-25, Besucher kommen über den Instagram-Bio-Link) */
+.hero.play{position:relative;padding:4px 0 10px}
+.hero.play h1{margin:0}
+.hero-logo{width:min(100%,520px);height:auto;display:block;margin:0 auto}
+.tagline{font-family:"Lilita One",system-ui,sans-serif;font-size:clamp(1.25rem,4.6vw,1.7rem)!important;line-height:1.2;margin:4px auto 0!important;text-shadow:0 2px 0 #1b1230}
+.hero-btns{justify-content:center;margin:16px 0 6px}
+.hero .hint{font-size:.95rem!important;opacity:.85}
+.btn.store{display:inline-flex;align-items:center;gap:10px}
+.btn.store .si{width:26px;height:26px;flex:none}
+.hero-btns .btn.store{min-width:200px;font-size:1.45rem;padding:10px 22px 12px}
+.studio-row{display:flex;flex-wrap:wrap;gap:16px;align-items:center}
+.studio-row p{flex:1 1 18em;margin:0}
+.studio .logo-card img{width:140px}
+@media(max-width:480px){.hero-btns{gap:8px;flex-wrap:nowrap}.hero-btns .btn.store{min-width:0;flex:1 1 0;font-size:1.15rem;padding:8px 10px 10px;gap:7px}.hero-btns .btn.store .si{width:22px;height:22px}.hero-btns .btn small{font-size:.66rem}}
